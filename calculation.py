@@ -11,3 +11,5 @@ print("Random stuffs")
 
 print("Enter your age")
 age = int(input())
+
+print(f"You are {age} years old.")
