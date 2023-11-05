@@ -1,5 +1,3 @@
-Sure, I'd be happy to help you learn about some advanced Git operations. Let's start with the `git bisect` command.
-
 ### Git Bisect
 
 `git bisect` is a valuable tool for identifying the commit that introduced a bug or regression in your codebase. It helps you perform a binary search through your commit history to pinpoint the exact commit that caused the issue.
